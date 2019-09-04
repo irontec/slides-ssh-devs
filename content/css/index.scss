@@ -1,12 +1,17 @@
 /**
  * Import any reveal.js theme or your own.
  **/
-@import '~reveal.js/css/theme/blood.css';
+@import '~@irontec/reveal.js-theme/dist/theme.css';
 
 .intro {
+    background-image: url('../assets/media/home_background.jpg');
     img {
         border:0 !important;
         box-shadow: none !important;
+    }
+
+    h1 {
+        margin-top:20%;
     }
 }
 

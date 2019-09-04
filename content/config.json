@@ -22,13 +22,10 @@
   "slides": [
     [
       {"path": "index.md", "attrs": {"class":"intro"}},
-      "01-intro/1.how-can-ssh-make-devs-life-easier.md"
+      "01-intro/*.md"
     ],
     [
-        "02-port-forwarding/1.tunneling-intro.md",
-        "02-port-forwarding/2.problems-intro.md",
-        "02-port-forwarding/2.the-problem-01.md",
-        "02-port-forwarding/3.the-solution-01.md"
+        "02-port-forwarding/*md"
     ],
     "end.html"
   ]
