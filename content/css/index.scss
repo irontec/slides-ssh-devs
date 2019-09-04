@@ -1,0 +1,12 @@
+/**
+ * Import any reveal.js theme or your own.
+ **/
+@import '~reveal.js/css/theme/blood.css';
+
+.intro {
+    img {
+        border:0 !important;
+        box-shadow: none !important;
+    }
+}
+
