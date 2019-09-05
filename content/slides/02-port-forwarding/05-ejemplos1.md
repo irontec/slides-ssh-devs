@@ -1,4 +1,4 @@
-#### MySQL over SSH
+#### MySQL over SSH (Fácil)
 Crea el forwarding al servidor:
 
 `ssh -L 8934:127.1:3306 root@iberdrola-prod`
@@ -11,15 +11,15 @@ ver man page (manual):
 $ man ssh | grep -- -f # Requests ssh to go to background just before command execution...
 $ man ssh | grep -- -N # Do not execute a remote command. This is useful for just forwarding ports...
 ```
-<!-- .element: class="fragment fade-right" -->
+<!-- .element: class="fragment fade-left" -->
 
 <br>
-<p>Ahora conectate en localhost al __puerto 8934__</p>  <!-- .element: class="fragment fade-left" -->
+<p>Ahora conectate en localhost al __puerto 8934__</p>  <!-- .element: class="fragment fade-right" -->
 
 <div>
-¿Por qué 8934? | La pregunta es... ¿Por qué NO?<br><br>
+¿Por qué eliges 8934? | La pregunta es... ¿Por qué NO?<br><br>
 `mysql -uroot -p -P 8934`
-</div>  <!-- .element: class="fragment fade-left" -->
+</div>  <!-- .element: class="fragment fade-right" -->
 
 <br>
 *'Ya eres un acker sin H'*
