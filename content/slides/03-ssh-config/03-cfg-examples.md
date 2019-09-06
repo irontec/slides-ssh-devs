@@ -1,0 +1,33 @@
+## > Ejemplos de configuración
+Contenido en texto plano
+```
+# ------------------------------
+# Personas a las que he hackeado
+# ------------------------------
+
+# Herencia de configuración
+
+Host *
+    # Usar usuario root en todas las configuraciones (si no tienen esa directiva)
+    User root
+
+Host iron-*
+    # Usar puerto 222 en todos los host que hagan 'match' con iron-* (si no tienen esa directiva)
+    Port 222
+
+Host iron-niko
+
+    # IP o nombre de dominio o host (si lo tiene)
+    HostName 10.10.0.230
+
+    # Opcional: por defecto el nombre de usuario con el que conectas por SSH
+    User niko
+
+    # Opcional: por defecto siempre se usa el 22
+    Port 222
+
+# Todas las configuraciones pueden ser anuladas (overrided)
+# Por otra directiva
+```
+<br>
+*Veremos otras configuraciones más adelante, pero dejo por <a target="_blank" href="https://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/">AQUÍ</a> un enlace de cyberciti.biz con configuraciones avanzadas.*

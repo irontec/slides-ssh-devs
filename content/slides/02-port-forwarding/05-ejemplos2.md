@@ -20,7 +20,6 @@ Cliente con __xtightvncviewer__:
 </div> <!-- .element: class="fragment fade-right" -->
 
 <div>
-¿Por qué eliges 9005? | La pregunta es... ¿Por qué NO?
 <p>`vncviewer 127.1:9005`</p>
 </div>  <!-- .element: class="fragment fade-right" -->
 

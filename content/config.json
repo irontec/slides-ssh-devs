@@ -24,8 +24,8 @@
       {"path": "index.md", "attrs": {"class":"intro"}},
       "01-intro/*.md"
     ],
-    ["02-port-forwarding/*md"],
     ["03-ssh-config/*md"],
+    ["02-port-forwarding/*md"],
     "end.html"
   ]
 }

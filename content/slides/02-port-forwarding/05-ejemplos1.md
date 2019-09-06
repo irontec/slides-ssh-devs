@@ -17,7 +17,6 @@ $ man ssh | grep -- -N # Do not execute a remote command. This is useful for jus
 <p>Ahora conectate en localhost al __puerto 8934__</p>  <!-- .element: class="fragment fade-right" -->
 
 <div>
-¿Por qué eliges 8934? | La pregunta es... ¿Por qué NO?<br><br>
 `mysql -uroot -p -P 8934`
 </div>  <!-- .element: class="fragment fade-right" -->
 
