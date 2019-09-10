@@ -26,6 +26,7 @@
     ],
     ["03-ssh-config/*md"],
     ["02-port-forwarding/*md"],
+    ["04-socks5-proxy/*md"],
     "end.html"
   ]
 }
