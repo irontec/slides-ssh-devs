@@ -24,9 +24,10 @@
       {"path": "index.md", "attrs": {"class":"intro"}},
       "01-intro/*.md"
     ],
-    ["03-ssh-config/*md"],
-    ["02-port-forwarding/*md"],
-    ["04-socks5-proxy/*md"],
+    ["03-ssh-config/*.md"],
+    ["02-port-forwarding/*.md"],
+    ["04-socks5-proxy/*.md"],
+    ["05-git-rsync-ssh-advanced/*.md"],
     "end.html"
   ]
 }
