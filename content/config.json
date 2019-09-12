@@ -28,6 +28,7 @@
     ["02-port-forwarding/*.md"],
     ["04-socks5-proxy/*.md"],
     ["05-git-rsync-ssh-advanced/*.md"],
+    ["06-proxy-jump-command/*.md"],
     "end.html"
   ]
 }
