@@ -29,6 +29,7 @@
     ["04-socks5-proxy/*.md"],
     ["05-git-rsync-ssh-advanced/*.md"],
     ["06-proxy-jump-command/*.md"],
+    ["07-ssh-agent-usages/*.md"],
     "end.html"
   ]
 }
