@@ -30,6 +30,7 @@
     ["05-git-rsync-ssh-advanced/*.md"],
     ["06-proxy-jump-command/*.md"],
     ["07-ssh-agent-usages/*.md"],
+    ["08-key-management/*.md"],
     "end.html"
   ]
 }
