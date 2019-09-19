@@ -31,6 +31,6 @@
     ["06-proxy-jump-command/*.md"],
     ["07-ssh-agent-usages/*.md"],
     ["08-key-management/*.md"],
-    "end.html"
+    "end.md"
   ]
 }
