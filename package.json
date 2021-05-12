@@ -46,7 +46,7 @@
     "mini-css-extract-plugin": "^0.4.4",
     "node-sass": "^4.9.4",
     "patch-package": "^5.1.1",
-    "postcss": "^7.0.5",
+    "postcss": "^8.2.10",
     "postcss-loader": "^3.0.0",
     "raw-loader": "^0.5.1",
     "sass-loader": "^7.1.0",
