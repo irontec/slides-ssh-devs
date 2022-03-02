@@ -64,7 +64,7 @@
     "highlight.js": "^9.13.0",
     "jquery": "^3.4.1",
     "reveal-ga": "^0.1.0",
-    "reveal.js": "^3.7.0",
+    "reveal.js": "^4.3.0",
     "reveal.js-menu": "^1.2.0",
     "uglifyjs-webpack-plugin": "^2.0.1"
   }
